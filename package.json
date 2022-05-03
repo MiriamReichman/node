@@ -1,0 +1,18 @@
+{
+  
+    "scripts": {
+     "start": "node app",
+     "dev": "nodemon app"
+   },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "generator": "^1.0.1",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.8",
+    "validate": "^5.2.0",
+    "validator": "^13.7.0",
+    "winston": "^3.6.0",
+    "winston-mongodb": "^5.0.7"
+  }
+}
